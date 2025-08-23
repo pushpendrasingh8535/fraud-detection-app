@@ -76,7 +76,7 @@ streamlit run app.py
 
 ## 📊 Dataset
 
-This project is based on the **Synthetic Credit Card Fraud Dataset** from [Kaggle](https://www.kaggle.com/datasets).
+This project is based on the **Synthetic Credit Card Fraud Dataset** from [Kaggle](https://www.kaggle.com/code/youssefelbadry10/credit-card-fraud-detection/input).
 Due to size limits, only a smaller **fraudSample.csv** is included.
 
 ---
