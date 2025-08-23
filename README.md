@@ -58,11 +58,6 @@ Using `requirements.txt`:
 pip install -r requirements.txt
 ```
 
-Or run the installer (Windows):
-
-```bash
-install_libs.bat
-```
 
 ### 3️⃣ Run the App
 
