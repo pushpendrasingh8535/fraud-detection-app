@@ -1,0 +1,1 @@
+For training and tesing, use dataset from here: https://www.kaggle.com/code/youssefelbadry10/credit-card-fraud-detection/input
