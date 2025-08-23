@@ -1,9 +1,3 @@
-Perfect 👍 a `README.md` is super important for your GitHub repo — it explains what your project does and how others can run it.
-
-Here’s a tailored `README.md` for your **Fraud Detection App**:
-
----
-
 # 💳 Fraud Detection System
 
 A Machine Learning–powered **Credit Card Fraud Detection App** built with **Streamlit**, trained on transaction data, and deployed on **Streamlit Cloud**.
@@ -103,5 +97,3 @@ To deploy on **Streamlit Community Cloud**:
 * Libraries: Streamlit, Scikit-learn, Pandas, Joblib
 
 ---
-
-👉 Would you like me to also add **screenshots of your app** (UI with fraud prediction) in the README so it looks more professional on GitHub?
